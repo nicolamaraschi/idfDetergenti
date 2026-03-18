@@ -9,9 +9,8 @@ import ProductsPage from './pages/ProductsPage';
 import FranchisePage from './pages/FranchisePage';
 import ContactPage from './pages/ContactPage';
 import MarketingPage from './pages/MarketingPage';
-import ProductSheets from './pages/ProductSheets.jsx';
+import CertificationsPage from './pages/CertificationsPage';
 
-// Layout
 const Layout = () => {
   return (
     <div className="flex flex-col min-h-screen">
@@ -24,9 +23,6 @@ const Layout = () => {
   );
 };
 
-
-
-// Language Wrapper to keep i18n in sync with URL
 const LangWrapper = () => {
   const { i18n } = useTranslation();
   const location = useLocation();
@@ -47,7 +43,6 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Navigate to="/it/" replace />} />
-
         <Route path="/:lang" element={<LangWrapper />}>
           <Route element={<Layout />}>
             <Route index element={<HomePage />} />
@@ -55,7 +50,6 @@ function App() {
             <Route path="apri-negozio" element={<FranchisePage />} />
             <Route path="marketing" element={<MarketingPage />} />
             <Route path="certificazioni" element={<CertificationsPage />} />
-            <Route path="schede-tecniche" element={<ProductSheets />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Route>
         </Route>

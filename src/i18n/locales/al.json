@@ -6,7 +6,17 @@
         "marketing": "Marketing",
         "storeLocator": "Dyqanet Pranë",
         "certifications": "Certifikimet",
-        "contact": "Kontakt"
+        "productSheets": "Fletët Teknike",
+        "contact": "Kontakti"
+    },
+    "productSheets": {
+        "title": "Dokumentacioni Teknik",
+        "subtitle": "Hyni në fletët teknike të detajuara për sigurinë dhe përdorimin e produkteve tona.",
+        "searchPlaceholder": "Kërko sipas emrit të produktit...",
+        "noResults": "Nuk u gjet asnjë fletë për këtë kërkim.",
+        "download": "Shkarko PDF",
+        "view": "Shiko",
+        "itemsCount": "Dokumente në dispozicion"
     },
     "hero": {
         "headline": "Detergjente me cilësi të lartë në rubinet",

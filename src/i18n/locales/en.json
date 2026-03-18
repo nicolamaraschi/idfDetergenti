@@ -6,7 +6,17 @@
         "marketing": "Marketing",
         "storeLocator": "Store Locator",
         "certifications": "Certifications",
+        "productSheets": "Technical Sheets",
         "contact": "Contact"
+    },
+    "productSheets": {
+        "title": "Technical Documentation",
+        "subtitle": "Access detailed technical sheets for the safety and use of our products.",
+        "searchPlaceholder": "Search by product name...",
+        "noResults": "No sheets found for this search.",
+        "download": "Download PDF",
+        "view": "View",
+        "itemsCount": "Available documents"
     },
     "hero": {
         "headline": "High Quality Detergents on Tap",
