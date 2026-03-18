@@ -1,0 +1,221 @@
+{
+    "nav": {
+        "home": "Home",
+        "products": "Prodotti",
+        "openStore": "Apri un Negozio",
+        "marketing": "Marketing",
+        "storeLocator": "Negozi Vicini",
+        "certifications": "Certificazioni",
+        "productSheets": "Schede Tecniche",
+        "contact": "Contatti"
+    },
+    "productSheets": {
+        "title": "Documentazione Tecnica",
+        "subtitle": "Accedi alle schede tecniche dettagliate per la sicurezza e l'utilizzo dei nostri prodotti.",
+        "searchPlaceholder": "Cerca per nome prodotto...",
+        "noResults": "Nessuna scheda trovata per questa ricerca.",
+        "download": "Scarica PDF",
+        "view": "Visualizza",
+        "itemsCount": "Documenti disponibili"
+    },
+    "hero": {
+        "headline": "Detergenti alla spina di alta qualità",
+        "subline": "Marca LOFTY – Biodegradabile 90% · Certificato HACCP",
+        "ctaProducts": "Scopri i Prodotti",
+        "ctaFranchise": "Apri un Negozio"
+    },
+    "about": {
+        "title": "Chi Siamo",
+        "body": "IDS Detergenti è un'azienda con anni di esperienza nella produzione di detergenti per uso domestico e industriale, impegnata ad offrire qualità superiore e rispetto per l'ambiente attraverso i nostri prodotti alla spina e linee professionali."
+    },
+    "homeProducts": {
+        "title": "Le Nostre Linee",
+        "subtitle": "Scopri la gamma completa dei nostri prodotti per ogni esigenza di pulizia.",
+        "lofty": {
+            "title": "Linea Lofty",
+            "desc": "Consumer standard"
+        },
+        "lofty-pro": {
+            "title": "Lofty Professional",
+            "desc": "Ho.Re.Ca / Industria"
+        },
+        "paketuar": {
+            "title": "Linea Confezionata",
+            "desc": "Prodotti pre-confezionati"
+        },
+        "industriale": {
+            "title": "Industriale LID",
+            "desc": "Uso professionale"
+        },
+        "cta": "Vedi tutti i prodotti"
+    },
+    "franchise": {
+        "title": "Unisciti a Noi",
+        "subtitle": "I prodotti LOFTY di alta qualità garantiscono il tuo successo!",
+        "store": {
+            "title": "Negozio",
+            "body": "Apri un punto vendita completo dedicato esclusivamente ai prodotti Lofty (min 20 mq)."
+        },
+        "corner": {
+            "title": "Corner",
+            "body": "Aggiungi un'area dedicata ai prodotti alla spina Lofty all'interno della tua attività esistente."
+        },
+        "profit": {
+            "title": "Profitto",
+            "body": "Nessuna royalty, altissimi margini di guadagno e prodotti altamente fidelizzanti per i clienti."
+        }
+    },
+    "contact": {
+        "title": "Contattaci",
+        "name": "Nome Cognome",
+        "email": "Email",
+        "subject": "Oggetto",
+        "message": "Messaggio",
+        "send": "Invia",
+        "phone": "+355 69 20 86 130",
+        "email_val": "info@idsdetergenti.com",
+        "address": "Uzina 12, Ish Kombinati Metalurgjik 3001 Elbasan",
+        "map_title": "Vieni a trovarci"
+    },
+    "franchisePage": {
+        "hero": {
+            "title": "Apri il tuo negozio LOFTY",
+            "subtitle": "Un'opportunità unica per avviare il tuo business nel mondo dei detergenti alla spina"
+        },
+        "offer": {
+            "title": "COSA OFFRIAMO",
+            "items": [
+                "Prodotti di qualità, competenza ed esperienza nel settore",
+                "Arredo e pacchetto pubblicitario del punto vendita",
+                "~1200 kg di prodotti vari Lofty e Tergo'",
+                "Imballaggi circolanti (bidoni, rubinetti)",
+                "Organizzazione evento di apertura + materiali pubblicitari",
+                "Prodotti promozionali per i clienti durante l'apertura",
+                "Assistenza nella formazione professionale del personale",
+                "Rifornimento entro 24h secondo pianificazione",
+                "Innovazione e ricerca continua sulla qualità",
+                "Promozione Radio-TV, Web Marketing, promo urbana, fiere"
+            ]
+        },
+        "requirements": {
+            "title": "COSA CERCHIAMO",
+            "items": [
+                "Licenza come persona fisica o giuridica",
+                "Investimento iniziale: 250.000 ALL (nuovo)",
+                "Locale adeguato min. 20 m²",
+                "Nessun costo per uso del marchio",
+                "Nessuna percentuale/royalty sulle vendite",
+                "Vendita esclusiva prodotti alla spina Lofty",
+                "Nessun vincolo per prodotti confezionati altri brand",
+                "Nessun vincolo per articoli casa, cosmetici, ecc.",
+                "Ordine minimo 100 kg",
+                "Ambiente pulito e accogliente"
+            ]
+        },
+        "carousel": {
+            "title": "Il tuo successo inizia qui",
+            "subtitle": "Guarda l'allestimento dei nostri punti vendita. Un'immagine coordinata forte e prodotti di qualità che richiamano i clienti.",
+            "tag": "Layout & Concept"
+        },
+        "cta": {
+            "title": "Entra nella squadra vincente!",
+            "subtitle": "Non perdere l'opportunità di aprire un business sostenibile, redditizio ed ecologico.",
+            "call": "Chiamaci Ora",
+            "write": "Scrivici"
+        }
+    },
+    "certifications": {
+        "title": "Le Nostre Certificazioni",
+        "subtitle": "Eccellenza Certificata",
+        "desc1": "IDS Detergenti è orgogliosa di operare secondo i più alti standard internazionali. Ogni processo, dalla produzione alla logistica, è monitorato per garantire sicurezza e qualità totale.",
+        "desc2": "La nostra dedizione è comprovata dalle certificazioni EN ISO 9001 e EN ISO 14001.",
+        "viewFull": "Apri Documento Full",
+        "official": "Certificazione Ufficiale",
+        "verifiedBy": "Verificata da",
+        "process": {
+            "one": "Analisi della Produzione",
+            "two": "Controllo Gestione Ambientale",
+            "three": "Validazione Qualità ISO"
+        }
+    },
+    "catalog": {
+        "assortment": "Assortimento",
+        "all": "Tutti",
+        "productsCount": "Prodotti",
+        "noProducts": "Nessun prodotto trovato",
+        "noProductsDesc": "La selezione attuale non contiene prodotti nel database o sono in fase di caricamento.",
+        "showAll": "Mostra tutti i prodotti della linea",
+        "lines": {
+            "lofty": "Linea Lofty",
+            "lofty-pro": "Linea Lofty Professional",
+            "paketuar": "Linea Confezionata",
+            "industriale": "Linea Industriale LID"
+        },
+        "categories": {
+            "zbutes": "Ammorbidente",
+            "lavatrice": "Lavatrice",
+            "dysheme": "Pavimenti",
+            "ene": "Stoviglie",
+            "detergjente": "Detergenti Vari",
+            "higjena-personale": "Igiene Personale",
+            "zbutes-rrobash": "Ammorbidente Bucato",
+            "lares-rrobash-likuid": "Lavatrice Liquido",
+            "lares-rrobash-pluhur": "Lavatrice Polvere",
+            "lares-enesh": "Detersivo Piatti",
+            "lavastoviglie": "Lavastoviglie",
+            "heqes-yndyror": "Sgrassatori",
+            "solucion-per-banjon": "Prodotti Bagno",
+            "solucion-per-dysheme": "Pavimenti Professionali",
+            "sapu-likuid": "Sapone Liquido",
+            "sapu-foam": "Sapone Schiuma",
+            "parfum-ambjenti": "Profumatore Ambienti",
+            "produkte-specifike": "Prodotti Specifici",
+            "foam-clor": "Foam Clor",
+            "strong-clor": "Strong Clor",
+            "deep-wash": "Deep Wash",
+            "alcosan": "Alcosan",
+            "alcogel": "Alcogel",
+            "antibakt": "Antibatterico",
+            "foam-soap": "Foam Soap",
+            "clorex-gel": "Clorex Gel",
+            "sode-kaustike": "Soda Caustica",
+            "wc-gel": "WC Gel",
+            "leter-higjenike": "Carta Igienica",
+            "stacion-shkume": "Stazione Schiuma"
+        },
+        "hero": {
+            "title": "Catalogo Prodotti",
+            "subtitle": "Naviga tra le nostre linee e categorie professionali",
+            "onTap": "Alla Spina"
+        }
+    },
+    "marketingPage": {
+        "hero": {
+            "title": "Marketing & Media",
+            "subtitle": "Scopri la nostra presenza mediatica, la partecipazione agli eventi e i nostri strumenti di comunicazione."
+        },
+        "tv": {
+            "label": "Televisione",
+            "title": "IDS Detergenti nei Media Nazionali",
+            "desc": "Segui le nostre interviste e gli spot pubblicitari trasmessi sui principali canali televisivi. Il nostro impegno per la qualità e l'innovazione presentato al grande pubblico.",
+            "source": "Pubblicato sul canale ufficiale YouTube"
+        },
+        "social": {
+            "title": "Entra nella nostra community",
+            "desc": "Seguici su Facebook per rimanere sempre aggiornato sulle ultime offerte, consigli di pulizia e le nostre attività quotidiane.",
+            "cta": "Seguici su Facebook"
+        },
+        "fiere": {
+            "title": "Partecipazione alle Fiere",
+            "desc": "IDS Detergenti è sempre presente nelle più importanti fiere di settore nella regione, mostrando le nostre ultime tecnologie alla spina.",
+            "upcoming": "Prossimi eventi in arrivo..."
+        },
+        "catalog": {
+            "label": "Catalogo 2024",
+            "title": "Sfoglia il nostro Catalogo Completo",
+            "desc": "Scopri l'intera gamma dei nostri prodotti, dalla linea casa a quella professionale e industriale. Tutto ciò che serve per un pulito perfetto.",
+            "view": "Vedi Online",
+            "download": "Scarica PDF"
+        }
+    }
+}

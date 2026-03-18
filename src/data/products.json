@@ -1,0 +1,2564 @@
+[
+  {
+    "id": "lofty-zbutes-loto-sweet",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Loto Sweet",
+      "en": "Loto Sweet",
+      "al": "Loto Sweet"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Loto Sweet. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Loto Sweet. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Loto Sweet. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-loto-sweet.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-mon-amour",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Mon Amour",
+      "en": "Mon Amour",
+      "al": "Mon Amour"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Mon Amour. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Mon Amour. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Mon Amour. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-mon-amour.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-blu-power",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Blu Power",
+      "en": "Blu Power",
+      "al": "Blu Power"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Blu Power. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Blu Power. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Blu Power. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-blu-power.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-spring-fresh",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Spring Fresh",
+      "en": "Spring Fresh",
+      "al": "Spring Fresh"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Spring Fresh. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Spring Fresh. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Spring Fresh. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-spring-fresh.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-fabuloso",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Fabuloso",
+      "en": "Fabuloso",
+      "al": "Fabuloso"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Fabuloso. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Fabuloso. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Fabuloso. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-fabuloso.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-argan",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Argan",
+      "en": "Argan",
+      "al": "Argan"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Argan. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Argan. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Argan. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-argan.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-cocole",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Cocole",
+      "en": "Cocole",
+      "al": "Cocole"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Cocole. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Cocole. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Cocole. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-cocole.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-hypnotic",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Hypnotic",
+      "en": "Hypnotic",
+      "al": "Hypnotic"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Hypnotic. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Hypnotic. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Hypnotic. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-hypnotic.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-len-blu",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Len Blu",
+      "en": "Len Blu",
+      "al": "Len Blu"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Len Blu. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Len Blu. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Len Blu. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-len-blu.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-felce-azur",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Felce Azur",
+      "en": "Felce Azur",
+      "al": "Felce Azur"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Felce Azur. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Felce Azur. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Felce Azur. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-felce-azur.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-lofty-gold",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Lofty Gold",
+      "en": "Lofty Gold",
+      "al": "Lofty Gold"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Lofty Gold. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Lofty Gold. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Lofty Gold. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-gold.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-muschio-e-orchidea",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Muschio E Orchidea",
+      "en": "Muschio E Orchidea",
+      "al": "Muschio E Orchidea"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Muschio E Orchidea. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Muschio E Orchidea. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Muschio E Orchidea. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-muschio-e-orchidea.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-actilife",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Actilife",
+      "en": "Actilife",
+      "al": "Actilife"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Actilife. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Actilife. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Actilife. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-actilife.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-narciso",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Narciso",
+      "en": "Narciso",
+      "al": "Narciso"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Narciso. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Narciso. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Narciso. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-zbutes-narciso.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-lofty-classic",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Lofty Classic",
+      "en": "Lofty Classic",
+      "al": "Lofty Classic"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Lofty Classic. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Lofty Classic. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Lofty Classic. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-zbutes-lofty-classic.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-latte-d-avena",
+    "linea": "lofty",
+    "categoria": "zbutes",
+    "nomi": {
+      "it": "Latte D'avena",
+      "en": "Latte D'avena",
+      "al": "Latte D'avena"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente - Latte D'avena. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Latte D'avena. Formulated for maximum performance.",
+      "al": "Produkti zbutes - Latte D'avena. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-zbutes-latte-d-avena.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-loto-sweet",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Loto Sweet",
+      "en": "Loto Sweet",
+      "al": "Loto Sweet"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Loto Sweet. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Loto Sweet. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Loto Sweet. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-loto-sweet.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-mon-amour",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Mon Amour",
+      "en": "Mon Amour",
+      "al": "Mon Amour"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Mon Amour. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Mon Amour. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Mon Amour. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-mon-amour.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-blu-power",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Blu Power",
+      "en": "Blu Power",
+      "al": "Blu Power"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Blu Power. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Blu Power. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Blu Power. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-blu-power.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-spring-fresh",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Spring Fresh",
+      "en": "Spring Fresh",
+      "al": "Spring Fresh"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Spring Fresh. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Spring Fresh. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Spring Fresh. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-spring-fresh.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-fabuloso",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Fabuloso",
+      "en": "Fabuloso",
+      "al": "Fabuloso"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Fabuloso. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Fabuloso. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Fabuloso. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-fabuloso.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-argan",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Argan",
+      "en": "Argan",
+      "al": "Argan"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Argan. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Argan. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Argan. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-argan.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-capi-scuri",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Capi Scuri",
+      "en": "Capi Scuri",
+      "al": "Capi Scuri"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Capi Scuri. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Capi Scuri. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Capi Scuri. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-capi-scuri.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-hypnotic",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Hypnotic",
+      "en": "Hypnotic",
+      "al": "Hypnotic"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Hypnotic. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Hypnotic. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Hypnotic. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-hypnotic.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-len-blu",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Len Blu",
+      "en": "Len Blu",
+      "al": "Len Blu"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Len Blu. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Len Blu. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Len Blu. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-len-blu.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-felce-azur",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Felce Azur",
+      "en": "Felce Azur",
+      "al": "Felce Azur"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Felce Azur. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Felce Azur. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Felce Azur. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-felce-azur.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-lofty-gold",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Lofty Gold",
+      "en": "Lofty Gold",
+      "al": "Lofty Gold"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Lofty Gold. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Lofty Gold. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Lofty Gold. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-lofty-gold.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-muschio-e-orchidea",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Muschio E Orchidea",
+      "en": "Muschio E Orchidea",
+      "al": "Muschio E Orchidea"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Muschio E Orchidea. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Muschio E Orchidea. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Muschio E Orchidea. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-muschio-e-orchidea.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-actilife",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Actilife",
+      "en": "Actilife",
+      "al": "Actilife"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Actilife. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Actilife. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Actilife. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-actilife.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-neutro-dixy",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Neutro Dixy",
+      "en": "Neutro Dixy",
+      "al": "Neutro Dixy"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Neutro Dixy. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Neutro Dixy. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Neutro Dixy. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-neutro-dixy.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-lana-delicati",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Lana Delicati",
+      "en": "Lana Delicati",
+      "al": "Lana Delicati"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Lana Delicati. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Lana Delicati. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Lana Delicati. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-lana-delicati.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-oxymagic-gel",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Oxymagic Gel",
+      "en": "Oxymagic Gel",
+      "al": "Oxymagic Gel"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Oxymagic Gel. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Oxymagic Gel. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Oxymagic Gel. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-oxymagic-gel.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-pluhur-weiss-3-super",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Pluhur Weiss 3 Super",
+      "en": "Pluhur Weiss 3 Super",
+      "al": "Pluhur Weiss 3 Super"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Pluhur Weiss 3 Super. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Pluhur Weiss 3 Super. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Pluhur Weiss 3 Super. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-pluhur-weiss-3-super.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-pluhur-sslx-profesional",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Pluhur Sslx Profesional",
+      "en": "Pluhur Sslx Profesional",
+      "al": "Pluhur Sslx Profesional"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Pluhur Sslx Profesional. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Pluhur Sslx Profesional. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Pluhur Sslx Profesional. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-pluhur-sslx-profesional.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-pulisan-smachiatore",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Pulisan Smachiatore",
+      "en": "Pulisan Smachiatore",
+      "al": "Pulisan Smachiatore"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Pulisan Smachiatore. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Pulisan Smachiatore. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Pulisan Smachiatore. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-pulisan-smachiatore.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lavatrice-monodose-idrosolubili",
+    "linea": "lofty",
+    "categoria": "lavatrice",
+    "nomi": {
+      "it": "Monodose Idrosolubili",
+      "en": "Monodose Idrosolubili",
+      "al": "Monodose Idrosolubili"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice - Monodose Idrosolubili. Formulazione studiata per le massime prestazioni.",
+      "en": "Laundry product - Monodose Idrosolubili. Formulated for maximum performance.",
+      "al": "Produkti lavatrice - Monodose Idrosolubili. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lavatrice-monodose-idrosolubili.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-dysheme-ahoy",
+    "linea": "lofty",
+    "categoria": "dysheme",
+    "nomi": {
+      "it": "Ahoy",
+      "en": "Ahoy",
+      "al": "Ahoy"
+    },
+    "descrizioni": {
+      "it": "Prodotto pavimenti - Ahoy. Formulazione studiata per le massime prestazioni.",
+      "en": "Floor Cleaners product - Ahoy. Formulated for maximum performance.",
+      "al": "Produkti dysheme - Ahoy. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-dysheme-ahoy.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-dysheme-alpina",
+    "linea": "lofty",
+    "categoria": "dysheme",
+    "nomi": {
+      "it": "Alpina",
+      "en": "Alpina",
+      "al": "Alpina"
+    },
+    "descrizioni": {
+      "it": "Prodotto pavimenti - Alpina. Formulazione studiata per le massime prestazioni.",
+      "en": "Floor Cleaners product - Alpina. Formulated for maximum performance.",
+      "al": "Produkti dysheme - Alpina. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?auto=format&fit=crop&q=80&w=400&h=400",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-dysheme-hypnotic",
+    "linea": "lofty",
+    "categoria": "dysheme",
+    "nomi": {
+      "it": "Hypnotic",
+      "en": "Hypnotic",
+      "al": "Hypnotic"
+    },
+    "descrizioni": {
+      "it": "Prodotto pavimenti - Hypnotic. Formulazione studiata per le massime prestazioni.",
+      "en": "Floor Cleaners product - Hypnotic. Formulated for maximum performance.",
+      "al": "Produkti dysheme - Hypnotic. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-dysheme-hypnotic.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-dysheme-ocean-breeze",
+    "linea": "lofty",
+    "categoria": "dysheme",
+    "nomi": {
+      "it": "Ocean Breeze",
+      "en": "Ocean Breeze",
+      "al": "Ocean Breeze"
+    },
+    "descrizioni": {
+      "it": "Prodotto pavimenti - Ocean Breeze. Formulazione studiata per le massime prestazioni.",
+      "en": "Floor Cleaners product - Ocean Breeze. Formulated for maximum performance.",
+      "al": "Produkti dysheme - Ocean Breeze. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-dysheme-ocean-breeze.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-dysheme-fior-di-loto",
+    "linea": "lofty",
+    "categoria": "dysheme",
+    "nomi": {
+      "it": "Fior Di Loto",
+      "en": "Fior Di Loto",
+      "al": "Fior Di Loto"
+    },
+    "descrizioni": {
+      "it": "Prodotto pavimenti - Fior Di Loto. Formulazione studiata per le massime prestazioni.",
+      "en": "Floor Cleaners product - Fior Di Loto. Formulated for maximum performance.",
+      "al": "Produkti dysheme - Fior Di Loto. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-dysheme-fior-di-loto.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-dysheme-limone-active",
+    "linea": "lofty",
+    "categoria": "dysheme",
+    "nomi": {
+      "it": "Limone Active",
+      "en": "Limone Active",
+      "al": "Limone Active"
+    },
+    "descrizioni": {
+      "it": "Prodotto pavimenti - Limone Active. Formulazione studiata per le massime prestazioni.",
+      "en": "Floor Cleaners product - Limone Active. Formulated for maximum performance.",
+      "al": "Produkti dysheme - Limone Active. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-dysheme-limone-active.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-dysheme-lavanda-di-provenza",
+    "linea": "lofty",
+    "categoria": "dysheme",
+    "nomi": {
+      "it": "Lavanda Di Provenza",
+      "en": "Lavanda Di Provenza",
+      "al": "Lavanda Di Provenza"
+    },
+    "descrizioni": {
+      "it": "Prodotto pavimenti - Lavanda Di Provenza. Formulazione studiata per le massime prestazioni.",
+      "en": "Floor Cleaners product - Lavanda Di Provenza. Formulated for maximum performance.",
+      "al": "Produkti dysheme - Lavanda Di Provenza. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-dysheme-lavanda-di-provenza.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-dysheme-diamante",
+    "linea": "lofty",
+    "categoria": "dysheme",
+    "nomi": {
+      "it": "Diamante",
+      "en": "Diamante",
+      "al": "Diamante"
+    },
+    "descrizioni": {
+      "it": "Prodotto pavimenti - Diamante. Formulazione studiata per le massime prestazioni.",
+      "en": "Floor Cleaners product - Diamante. Formulated for maximum performance.",
+      "al": "Produkti dysheme - Diamante. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-dysheme-diamante.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-dysheme-lofty-legno-parquet",
+    "linea": "lofty",
+    "categoria": "dysheme",
+    "nomi": {
+      "it": "Lofty Legno Parquet",
+      "en": "Lofty Legno Parquet",
+      "al": "Lofty Legno Parquet"
+    },
+    "descrizioni": {
+      "it": "Prodotto pavimenti - Lofty Legno Parquet. Formulazione studiata per le massime prestazioni.",
+      "en": "Floor Cleaners product - Lofty Legno Parquet. Formulated for maximum performance.",
+      "al": "Produkti dysheme - Lofty Legno Parquet. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-dysheme-lofty-legno-parquet.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-ene-lofty-plus",
+    "linea": "lofty",
+    "categoria": "ene",
+    "nomi": {
+      "it": "Lofty Plus",
+      "en": "Lofty Plus",
+      "al": "Lofty Plus"
+    },
+    "descrizioni": {
+      "it": "Prodotto stoviglie - Lofty Plus. Formulazione studiata per le massime prestazioni.",
+      "en": "Dishwashing product - Lofty Plus. Formulated for maximum performance.",
+      "al": "Produkti ene - Lofty Plus. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-ene-lofty-plus.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-ene-aceto",
+    "linea": "lofty",
+    "categoria": "ene",
+    "nomi": {
+      "it": "Aceto",
+      "en": "Aceto",
+      "al": "Aceto"
+    },
+    "descrizioni": {
+      "it": "Prodotto stoviglie - Aceto. Formulazione studiata per le massime prestazioni.",
+      "en": "Dishwashing product - Aceto. Formulated for maximum performance.",
+      "al": "Produkti ene - Aceto. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-ene-aceto.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-ene-limone",
+    "linea": "lofty",
+    "categoria": "ene",
+    "nomi": {
+      "it": "Limone",
+      "en": "Limone",
+      "al": "Limone"
+    },
+    "descrizioni": {
+      "it": "Prodotto stoviglie - Limone. Formulazione studiata per le massime prestazioni.",
+      "en": "Dishwashing product - Limone. Formulated for maximum performance.",
+      "al": "Produkti ene - Limone. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-ene-limone.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-ene-menta-e-bicarbonato",
+    "linea": "lofty",
+    "categoria": "ene",
+    "nomi": {
+      "it": "Menta E Bicarbonato",
+      "en": "Menta E Bicarbonato",
+      "al": "Menta E Bicarbonato"
+    },
+    "descrizioni": {
+      "it": "Prodotto stoviglie - Menta E Bicarbonato. Formulazione studiata per le massime prestazioni.",
+      "en": "Dishwashing product - Menta E Bicarbonato. Formulated for maximum performance.",
+      "al": "Produkti ene - Menta E Bicarbonato. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-ene-menta-e-bicarbonato.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-ene-argan-e-agrumi",
+    "linea": "lofty",
+    "categoria": "ene",
+    "nomi": {
+      "it": "Argan E Agrumi",
+      "en": "Argan E Agrumi",
+      "al": "Argan E Agrumi"
+    },
+    "descrizioni": {
+      "it": "Prodotto stoviglie - Argan E Agrumi. Formulazione studiata per le massime prestazioni.",
+      "en": "Dishwashing product - Argan E Agrumi. Formulated for maximum performance.",
+      "al": "Produkti ene - Argan E Agrumi. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-ene-argan-e-agrumi.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-ene-fruits",
+    "linea": "lofty",
+    "categoria": "ene",
+    "nomi": {
+      "it": "Fruits",
+      "en": "Fruits",
+      "al": "Fruits"
+    },
+    "descrizioni": {
+      "it": "Prodotto stoviglie - Fruits. Formulazione studiata per le massime prestazioni.",
+      "en": "Dishwashing product - Fruits. Formulated for maximum performance.",
+      "al": "Produkti ene - Fruits. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-ene-fruits.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-ene-lavastoviglie-liquido",
+    "linea": "lofty",
+    "categoria": "ene",
+    "nomi": {
+      "it": "Lavastoviglie Liquido",
+      "en": "Lavastoviglie Liquido",
+      "al": "Lavastoviglie Liquido"
+    },
+    "descrizioni": {
+      "it": "Prodotto stoviglie - Lavastoviglie Liquido. Formulazione studiata per le massime prestazioni.",
+      "en": "Dishwashing product - Lavastoviglie Liquido. Formulated for maximum performance.",
+      "al": "Produkti ene - Lavastoviglie Liquido. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-ene-lavastoviglie-liquido.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-ene-brillantante",
+    "linea": "lofty",
+    "categoria": "ene",
+    "nomi": {
+      "it": "Brillantante",
+      "en": "Brillantante",
+      "al": "Brillantante"
+    },
+    "descrizioni": {
+      "it": "Prodotto stoviglie - Brillantante. Formulazione studiata per le massime prestazioni.",
+      "en": "Dishwashing product - Brillantante. Formulated for maximum performance.",
+      "al": "Produkti ene - Brillantante. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-ene-brillantante.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-ene-lavastoviglie-tabs",
+    "linea": "lofty",
+    "categoria": "ene",
+    "nomi": {
+      "it": "Lavastoviglie Tabs",
+      "en": "Lavastoviglie Tabs",
+      "al": "Lavastoviglie Tabs"
+    },
+    "descrizioni": {
+      "it": "Prodotto stoviglie - Lavastoviglie Tabs. Formulazione studiata per le massime prestazioni.",
+      "en": "Dishwashing product - Lavastoviglie Tabs. Formulated for maximum performance.",
+      "al": "Produkti ene - Lavastoviglie Tabs. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-ene-lavastoviglie-tabs.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-detergjente-ace-classica",
+    "linea": "lofty",
+    "categoria": "detergjente",
+    "nomi": {
+      "it": "Ace Classica",
+      "en": "Ace Classica",
+      "al": "Ace Classica"
+    },
+    "descrizioni": {
+      "it": "Prodotto detergenti - Ace Classica. Formulazione studiata per le massime prestazioni.",
+      "en": "Detergents product - Ace Classica. Formulated for maximum performance.",
+      "al": "Produkti detergjente - Ace Classica. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-detergjente-ace-classica.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-detergjente-ace-gentile-gel",
+    "linea": "lofty",
+    "categoria": "detergjente",
+    "nomi": {
+      "it": "Ace Gentile Gel",
+      "en": "Ace Gentile Gel",
+      "al": "Ace Gentile Gel"
+    },
+    "descrizioni": {
+      "it": "Prodotto detergenti - Ace Gentile Gel. Formulazione studiata per le massime prestazioni.",
+      "en": "Detergents product - Ace Gentile Gel. Formulated for maximum performance.",
+      "al": "Produkti detergjente - Ace Gentile Gel. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-detergjente-ace-gentile-gel.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-detergjente-ace-profumata",
+    "linea": "lofty",
+    "categoria": "detergjente",
+    "nomi": {
+      "it": "Ace Profumata",
+      "en": "Ace Profumata",
+      "al": "Ace Profumata"
+    },
+    "descrizioni": {
+      "it": "Prodotto detergenti - Ace Profumata. Formulazione studiata per le massime prestazioni.",
+      "en": "Detergents product - Ace Profumata. Formulated for maximum performance.",
+      "al": "Produkti detergjente - Ace Profumata. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-detergjente-ace-profumata.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-detergjente-pulibagno",
+    "linea": "lofty",
+    "categoria": "detergjente",
+    "nomi": {
+      "it": "Pulibagno",
+      "en": "Pulibagno",
+      "al": "Pulibagno"
+    },
+    "descrizioni": {
+      "it": "Prodotto detergenti - Pulibagno. Formulazione studiata per le massime prestazioni.",
+      "en": "Detergents product - Pulibagno. Formulated for maximum performance.",
+      "al": "Produkti detergjente - Pulibagno. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-detergjente-pulibagno.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-detergjente-wc-gel",
+    "linea": "lofty",
+    "categoria": "detergjente",
+    "nomi": {
+      "it": "Wc Gel",
+      "en": "Wc Gel",
+      "al": "Wc Gel"
+    },
+    "descrizioni": {
+      "it": "Prodotto detergenti - Wc Gel. Formulazione studiata per le massime prestazioni.",
+      "en": "Detergents product - Wc Gel. Formulated for maximum performance.",
+      "al": "Produkti detergjente - Wc Gel. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-detergjente-wc-gel.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-detergjente-crema-plus",
+    "linea": "lofty",
+    "categoria": "detergjente",
+    "nomi": {
+      "it": "Crema Plus",
+      "en": "Crema Plus",
+      "al": "Crema Plus"
+    },
+    "descrizioni": {
+      "it": "Prodotto detergenti - Crema Plus. Formulazione studiata per le massime prestazioni.",
+      "en": "Detergents product - Crema Plus. Formulated for maximum performance.",
+      "al": "Produkti detergjente - Crema Plus. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-detergjente-crema-plus.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-detergjente-sgrassatore-marsiglia",
+    "linea": "lofty",
+    "categoria": "detergjente",
+    "nomi": {
+      "it": "Sgrassatore Marsiglia",
+      "en": "Sgrassatore Marsiglia",
+      "al": "Sgrassatore Marsiglia"
+    },
+    "descrizioni": {
+      "it": "Prodotto detergenti - Sgrassatore Marsiglia. Formulazione studiata per le massime prestazioni.",
+      "en": "Detergents product - Sgrassatore Marsiglia. Formulated for maximum performance.",
+      "al": "Produkti detergjente - Sgrassatore Marsiglia. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-detergjente-sgrassatore-marsiglia.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-detergjente-sgrassatore-limone",
+    "linea": "lofty",
+    "categoria": "detergjente",
+    "nomi": {
+      "it": "Sgrassatore Limone",
+      "en": "Sgrassatore Limone",
+      "al": "Sgrassatore Limone"
+    },
+    "descrizioni": {
+      "it": "Prodotto detergenti - Sgrassatore Limone. Formulazione studiata per le massime prestazioni.",
+      "en": "Detergents product - Sgrassatore Limone. Formulated for maximum performance.",
+      "al": "Produkti detergjente - Sgrassatore Limone. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-detergjente-sgrassatore-limone.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-detergjente-forni-e-grill",
+    "linea": "lofty",
+    "categoria": "detergjente",
+    "nomi": {
+      "it": "Forni E Grill",
+      "en": "Forni E Grill",
+      "al": "Forni E Grill"
+    },
+    "descrizioni": {
+      "it": "Prodotto detergenti - Forni E Grill. Formulazione studiata per le massime prestazioni.",
+      "en": "Detergents product - Forni E Grill. Formulated for maximum performance.",
+      "al": "Produkti detergjente - Forni E Grill. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-detergjente-forni-e-grill.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-detergjente-multiuso-alicante-brill",
+    "linea": "lofty",
+    "categoria": "detergjente",
+    "nomi": {
+      "it": "Multiuso Alicante Brill",
+      "en": "Multiuso Alicante Brill",
+      "al": "Multiuso Alicante Brill"
+    },
+    "descrizioni": {
+      "it": "Prodotto detergenti - Multiuso Alicante Brill. Formulazione studiata per le massime prestazioni.",
+      "en": "Detergents product - Multiuso Alicante Brill. Formulated for maximum performance.",
+      "al": "Produkti detergjente - Multiuso Alicante Brill. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-detergjente-multiuso-alicante-brill.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-detergjente-multiuso-lofty",
+    "linea": "lofty",
+    "categoria": "detergjente",
+    "nomi": {
+      "it": "Multiuso Lofty",
+      "en": "Multiuso Lofty",
+      "al": "Multiuso Lofty"
+    },
+    "descrizioni": {
+      "it": "Prodotto detergenti - Multiuso Lofty. Formulazione studiata per le massime prestazioni.",
+      "en": "Detergents product - Multiuso Lofty. Formulated for maximum performance.",
+      "al": "Produkti detergjente - Multiuso Lofty. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-detergjente-multiuso-lofty.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-detergjente-pronto-ammoniaca",
+    "linea": "lofty",
+    "categoria": "detergjente",
+    "nomi": {
+      "it": "Pronto Ammoniaca",
+      "en": "Pronto Ammoniaca",
+      "al": "Pronto Ammoniaca"
+    },
+    "descrizioni": {
+      "it": "Prodotto detergenti - Pronto Ammoniaca. Formulazione studiata per le massime prestazioni.",
+      "en": "Detergents product - Pronto Ammoniaca. Formulated for maximum performance.",
+      "al": "Produkti detergjente - Pronto Ammoniaca. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-detergjente-pronto-ammoniaca.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-detergjente-anticalcare",
+    "linea": "lofty",
+    "categoria": "detergjente",
+    "nomi": {
+      "it": "Anticalcare",
+      "en": "Anticalcare",
+      "al": "Anticalcare"
+    },
+    "descrizioni": {
+      "it": "Prodotto detergenti - Anticalcare. Formulazione studiata per le massime prestazioni.",
+      "en": "Detergents product - Anticalcare. Formulated for maximum performance.",
+      "al": "Produkti detergjente - Anticalcare. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-detergjente-anticalcare.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-detergjente-brillaciaio",
+    "linea": "lofty",
+    "categoria": "detergjente",
+    "nomi": {
+      "it": "Brillaciaio",
+      "en": "Brillaciaio",
+      "al": "Brillaciaio"
+    },
+    "descrizioni": {
+      "it": "Prodotto detergenti - Brillaciaio. Formulazione studiata per le massime prestazioni.",
+      "en": "Detergents product - Brillaciaio. Formulated for maximum performance.",
+      "al": "Produkti detergjente - Brillaciaio. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-detergjente-brillaciaio.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-detergjente-high-fragrance",
+    "linea": "lofty",
+    "categoria": "detergjente",
+    "nomi": {
+      "it": "High Fragrance",
+      "en": "High Fragrance",
+      "al": "High Fragrance"
+    },
+    "descrizioni": {
+      "it": "Prodotto detergenti - High Fragrance. Formulazione studiata per le massime prestazioni.",
+      "en": "Detergents product - High Fragrance. Formulated for maximum performance.",
+      "al": "Produkti detergjente - High Fragrance. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-detergjente-high-fragrance.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-higjena-personale-sapu-aroma-therapy",
+    "linea": "lofty",
+    "categoria": "higjena-personale",
+    "nomi": {
+      "it": "Sapu Aroma Therapy",
+      "en": "Sapu Aroma Therapy",
+      "al": "Sapu Aroma Therapy"
+    },
+    "descrizioni": {
+      "it": "Prodotto igiene personale - Sapu Aroma Therapy. Formulazione studiata per le massime prestazioni.",
+      "en": "Personal Care product - Sapu Aroma Therapy. Formulated for maximum performance.",
+      "al": "Produkti higjena personale - Sapu Aroma Therapy. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-higjena-personale-sapu-aroma-therapy.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-higjena-personale-sapu-muschio-verde",
+    "linea": "lofty",
+    "categoria": "higjena-personale",
+    "nomi": {
+      "it": "Sapu Muschio Verde",
+      "en": "Sapu Muschio Verde",
+      "al": "Sapu Muschio Verde"
+    },
+    "descrizioni": {
+      "it": "Prodotto igiene personale - Sapu Muschio Verde. Formulazione studiata per le massime prestazioni.",
+      "en": "Personal Care product - Sapu Muschio Verde. Formulated for maximum performance.",
+      "al": "Produkti higjena personale - Sapu Muschio Verde. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-higjena-personale-sapu-muschio-verde.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-higjena-personale-sapu-talco",
+    "linea": "lofty",
+    "categoria": "higjena-personale",
+    "nomi": {
+      "it": "Sapu Talco",
+      "en": "Sapu Talco",
+      "al": "Sapu Talco"
+    },
+    "descrizioni": {
+      "it": "Prodotto igiene personale - Sapu Talco. Formulazione studiata per le massime prestazioni.",
+      "en": "Personal Care product - Sapu Talco. Formulated for maximum performance.",
+      "al": "Produkti higjena personale - Sapu Talco. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-higjena-personale-sapu-talco.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-higjena-personale-sapu-antibakterial",
+    "linea": "lofty",
+    "categoria": "higjena-personale",
+    "nomi": {
+      "it": "Sapu Antibakterial",
+      "en": "Sapu Antibakterial",
+      "al": "Sapu Antibakterial"
+    },
+    "descrizioni": {
+      "it": "Prodotto igiene personale - Sapu Antibakterial. Formulazione studiata per le massime prestazioni.",
+      "en": "Personal Care product - Sapu Antibakterial. Formulated for maximum performance.",
+      "al": "Produkti higjena personale - Sapu Antibakterial. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-higjena-personale-sapu-antibakterial.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-higjena-personale-shampo-aloe",
+    "linea": "lofty",
+    "categoria": "higjena-personale",
+    "nomi": {
+      "it": "Shampo Aloe",
+      "en": "Shampo Aloe",
+      "al": "Shampo Aloe"
+    },
+    "descrizioni": {
+      "it": "Prodotto igiene personale - Shampo Aloe. Formulazione studiata per le massime prestazioni.",
+      "en": "Personal Care product - Shampo Aloe. Formulated for maximum performance.",
+      "al": "Produkti higjena personale - Shampo Aloe. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-higjena-personale-shampo-aloe.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-higjena-personale-shampo-hair",
+    "linea": "lofty",
+    "categoria": "higjena-personale",
+    "nomi": {
+      "it": "Shampo Hair",
+      "en": "Shampo Hair",
+      "al": "Shampo Hair"
+    },
+    "descrizioni": {
+      "it": "Prodotto igiene personale - Shampo Hair. Formulazione studiata per le massime prestazioni.",
+      "en": "Personal Care product - Shampo Hair. Formulated for maximum performance.",
+      "al": "Produkti higjena personale - Shampo Hair. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-higjena-personale-shampo-hair.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-higjena-personale-bagnoschiuma-sensation",
+    "linea": "lofty",
+    "categoria": "higjena-personale",
+    "nomi": {
+      "it": "Bagnoschiuma Sensation",
+      "en": "Bagnoschiuma Sensation",
+      "al": "Bagnoschiuma Sensation"
+    },
+    "descrizioni": {
+      "it": "Prodotto igiene personale - Bagnoschiuma Sensation. Formulazione studiata per le massime prestazioni.",
+      "en": "Personal Care product - Bagnoschiuma Sensation. Formulated for maximum performance.",
+      "al": "Produkti higjena personale - Bagnoschiuma Sensation. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-higjena-personale-bagnoschiuma-sensation.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-higjena-personale-bagnoschiuma-olio-di-argan",
+    "linea": "lofty",
+    "categoria": "higjena-personale",
+    "nomi": {
+      "it": "Bagnoschiuma Olio Di Argan",
+      "en": "Bagnoschiuma Olio Di Argan",
+      "al": "Bagnoschiuma Olio Di Argan"
+    },
+    "descrizioni": {
+      "it": "Prodotto igiene personale - Bagnoschiuma Olio Di Argan. Formulazione studiata per le massime prestazioni.",
+      "en": "Personal Care product - Bagnoschiuma Olio Di Argan. Formulated for maximum performance.",
+      "al": "Produkti higjena personale - Bagnoschiuma Olio Di Argan. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-higjena-personale-bagnoschiuma-olio-di-argan.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-higjena-personale-bagnoschiuma-talco-vid",
+    "linea": "lofty",
+    "categoria": "higjena-personale",
+    "nomi": {
+      "it": "Bagnoschiuma Talco Vid",
+      "en": "Bagnoschiuma Talco Vid",
+      "al": "Bagnoschiuma Talco Vid"
+    },
+    "descrizioni": {
+      "it": "Prodotto igiene personale - Bagnoschiuma Talco Vid. Formulazione studiata per le massime prestazioni.",
+      "en": "Personal Care product - Bagnoschiuma Talco Vid. Formulated for maximum performance.",
+      "al": "Produkti higjena personale - Bagnoschiuma Talco Vid. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-higjena-personale-bagnoschiuma-talco-vid.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-higjena-personale-balsam",
+    "linea": "lofty",
+    "categoria": "higjena-personale",
+    "nomi": {
+      "it": "Balsam",
+      "en": "Balsam",
+      "al": "Balsam"
+    },
+    "descrizioni": {
+      "it": "Prodotto igiene personale - Balsam. Formulazione studiata per le massime prestazioni.",
+      "en": "Personal Care product - Balsam. Formulated for maximum performance.",
+      "al": "Produkti higjena personale - Balsam. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-higjena-personale-balsam.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-rrobash-aroma-therapy",
+    "linea": "lofty",
+    "categoria": "zbutes-rrobash",
+    "nomi": {
+      "it": "Aroma Therapy",
+      "en": "Aroma Therapy",
+      "al": "Aroma Therapy"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente bucato - Aroma Therapy. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Aroma Therapy. Formulated for maximum performance.",
+      "al": "Produkti zbutes rrobash - Aroma Therapy. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-zbutes-rrobash-aroma-therapy.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-zbutes-rrobash-lofty-intenso",
+    "linea": "lofty",
+    "categoria": "zbutes-rrobash",
+    "nomi": {
+      "it": "Lofty Intenso",
+      "en": "Lofty Intenso",
+      "al": "Lofty Intenso"
+    },
+    "descrizioni": {
+      "it": "Prodotto ammorbidente bucato - Lofty Intenso. Formulazione studiata per le massime prestazioni.",
+      "en": "Fabric Softener product - Lofty Intenso. Formulated for maximum performance.",
+      "al": "Produkti zbutes rrobash - Lofty Intenso. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-zbutes-rrobash-lofty-intenso.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lares-rrobash-likuid-lofty-intenso",
+    "linea": "lofty",
+    "categoria": "lares-rrobash-likuid",
+    "nomi": {
+      "it": "Lofty Intenso",
+      "en": "Lofty Intenso",
+      "al": "Lofty Intenso"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice liquido - Lofty Intenso. Formulazione studiata per le massime prestazioni.",
+      "en": "Liquid Laundry product - Lofty Intenso. Formulated for maximum performance.",
+      "al": "Produkti lares rrobash likuid - Lofty Intenso. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lares-rrobash-likuid-lofty-intenso.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lares-rrobash-likuid-oxymagic-gel",
+    "linea": "lofty",
+    "categoria": "lares-rrobash-likuid",
+    "nomi": {
+      "it": "Oxymagic Gel",
+      "en": "Oxymagic Gel",
+      "al": "Oxymagic Gel"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice liquido - Oxymagic Gel. Formulazione studiata per le massime prestazioni.",
+      "en": "Liquid Laundry product - Oxymagic Gel. Formulated for maximum performance.",
+      "al": "Produkti lares rrobash likuid - Oxymagic Gel. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lares-rrobash-likuid-oxymagic-gel.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lares-rrobash-pluhur-weiss-3-super",
+    "linea": "lofty",
+    "categoria": "lares-rrobash-pluhur",
+    "nomi": {
+      "it": "Weiss 3 Super",
+      "en": "Weiss 3 Super",
+      "al": "Weiss 3 Super"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice polvere - Weiss 3 Super. Formulazione studiata per le massime prestazioni.",
+      "en": "Powder Laundry product - Weiss 3 Super. Formulated for maximum performance.",
+      "al": "Produkti lares rrobash pluhur - Weiss 3 Super. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lares-rrobash-pluhur-weiss-3-super.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lares-rrobash-pluhur-sslx-profesional",
+    "linea": "lofty",
+    "categoria": "lares-rrobash-pluhur",
+    "nomi": {
+      "it": "Sslx Profesional",
+      "en": "Sslx Profesional",
+      "al": "Sslx Profesional"
+    },
+    "descrizioni": {
+      "it": "Prodotto lavatrice polvere - Sslx Profesional. Formulazione studiata per le massime prestazioni.",
+      "en": "Powder Laundry product - Sslx Profesional. Formulated for maximum performance.",
+      "al": "Produkti lares rrobash pluhur - Sslx Profesional. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lares-rrobash-pluhur-sslx-profesional.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lares-enesh-limone",
+    "linea": "lofty",
+    "categoria": "lares-enesh",
+    "nomi": {
+      "it": "Limone",
+      "en": "Limone",
+      "al": "Limone"
+    },
+    "descrizioni": {
+      "it": "Prodotto detersivo piatti - Limone. Formulazione studiata per le massime prestazioni.",
+      "en": "Dishwashing product - Limone. Formulated for maximum performance.",
+      "al": "Produkti lares enesh - Limone. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lares-enesh-limone.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-lares-enesh-cenere-attiva",
+    "linea": "lofty",
+    "categoria": "lares-enesh",
+    "nomi": {
+      "it": "Cenere Attiva",
+      "en": "Cenere Attiva",
+      "al": "Cenere Attiva"
+    },
+    "descrizioni": {
+      "it": "Prodotto detersivo piatti - Cenere Attiva. Formulazione studiata per le massime prestazioni.",
+      "en": "Dishwashing product - Cenere Attiva. Formulated for maximum performance.",
+      "al": "Produkti lares enesh - Cenere Attiva. Formuluar për performancë maksimale."
+    },
+    "highlights": [
+      "HACCP",
+      "Qualità Garantita"
+    ],
+    "immagine": "/products/lofty-lares-enesh-cenere-attiva.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "industriale-foam-clor",
+    "linea": "industriale",
+    "categoria": "foam-clor",
+    "nomi": {
+      "it": "Foam Clor",
+      "en": "Foam Clor",
+      "al": "Foam Clor"
+    },
+    "descrizioni": {
+      "it": "Detergente schiumogeno alcalino per uso industriale.",
+      "en": "Alkaline foaming detergent for industrial use.",
+      "al": "Detergjent shkume alkalin per perdorim industrial."
+    },
+    "highlights": [
+      "Industriale",
+      "Uso Professionale"
+    ],
+    "immagine": "/products/industriale-foam-clor.png",
+    "disponibile_alla_spina": false
+  },
+  {
+    "id": "industriale-strong-clor",
+    "linea": "industriale",
+    "categoria": "strong-clor",
+    "nomi": {
+      "it": "Strong Clor",
+      "en": "Strong Clor",
+      "al": "Strong Clor"
+    },
+    "descrizioni": {
+      "it": "Detergente schiumogeno concentrato alcalino per uso industriale.",
+      "en": "Concentrated alkaline foaming detergent for industrial use.",
+      "al": "Detergjent shkume i perqendruar alkalin per perdorim industrial."
+    },
+    "highlights": [
+      "Industriale",
+      "Uso Professionale"
+    ],
+    "immagine": "/products/industriale-strong-clor.png",
+    "disponibile_alla_spina": false
+  },
+  {
+    "id": "industriale-deep-wash",
+    "linea": "industriale",
+    "categoria": "deep-wash",
+    "nomi": {
+      "it": "Deep Wash",
+      "en": "Deep Wash",
+      "al": "Deep Wash"
+    },
+    "descrizioni": {
+      "it": "Detergente concentrato per la pulizia di ambienti e attrezzature ad uso industriale.",
+      "en": "Concentrated detergent for cleaning environments and equipment for industrial use.",
+      "al": "Detergjent i perqendruar pastrimi ambjetesh dhe pajisjesh per perdorim industrial."
+    },
+    "highlights": [
+      "Industriale",
+      "Uso Professionale"
+    ],
+    "immagine": "/products/industriale-deep-wash.png",
+    "disponibile_alla_spina": false
+  },
+  {
+    "id": "industriale-alcosan",
+    "linea": "industriale",
+    "categoria": "alcosan",
+    "nomi": {
+      "it": "Alcosan",
+      "en": "Alcosan",
+      "al": "Alcosan"
+    },
+    "descrizioni": {
+      "it": "Soluzione mani igienizzante alcolica autoasciugante per uso industriale.",
+      "en": "Self-drying alcoholic sanitizing hand solution for industrial use.",
+      "al": "Solucion duarsh higjienizues alkoolik vetethares per perdorim industrial."
+    },
+    "highlights": [
+      "Industriale",
+      "Uso Professionale"
+    ],
+    "immagine": "/products/industriale-alcosan.png",
+    "disponibile_alla_spina": false
+  },
+  {
+    "id": "industriale-alcogel",
+    "linea": "industriale",
+    "categoria": "alcogel",
+    "nomi": {
+      "it": "Alcogel",
+      "en": "Alcogel",
+      "al": "Alcogel"
+    },
+    "descrizioni": {
+      "it": "Gel mani igienizzante alcolico autoasciugante per uso industriale.",
+      "en": "Self-drying alcoholic sanitizing hand gel for industrial use.",
+      "al": "Solucion duarsh higjienizues alkoolik vetethares per perdorim industrial."
+    },
+    "highlights": [
+      "Industriale",
+      "Uso Professionale"
+    ],
+    "immagine": "/products/industriale-alcogel.png",
+    "disponibile_alla_spina": false
+  },
+  {
+    "id": "industriale-antibakt",
+    "linea": "industriale",
+    "categoria": "antibakt",
+    "nomi": {
+      "it": "Antibakt",
+      "en": "Antibakt",
+      "al": "Antibakt"
+    },
+    "descrizioni": {
+      "it": "Sapone liquido mani igienizzante antibatterico per uso industriale.",
+      "en": "Antibacterial sanitizing liquid hand soap for industrial use.",
+      "al": "Sapu likuid duarsh higjenizues, antibakterial per perdorim industrial."
+    },
+    "highlights": [
+      "Industriale",
+      "Uso Professionale"
+    ],
+    "immagine": "/products/industriale-antibakt.png",
+    "disponibile_alla_spina": false
+  },
+  {
+    "id": "industriale-foam-soap",
+    "linea": "industriale",
+    "categoria": "foam-soap",
+    "nomi": {
+      "it": "Foam Soap",
+      "en": "Foam Soap",
+      "al": "Foam Soap"
+    },
+    "descrizioni": {
+      "it": "Sapone schiuma mani antibatterico per uso industriale.",
+      "en": "Antibacterial foaming hand soap for industrial use.",
+      "al": "Sapu likuid duarsh shkume, antibakterial per perdorim industrial."
+    },
+    "highlights": [
+      "Industriale",
+      "Uso Professionale"
+    ],
+    "immagine": "/products/industriale-foam-soap.png",
+    "disponibile_alla_spina": false
+  },
+  {
+    "id": "industriale-clorex-gel",
+    "linea": "industriale",
+    "categoria": "clorex-gel",
+    "nomi": {
+      "it": "Clorex Gel",
+      "en": "Clorex Gel",
+      "al": "Clorex Gel"
+    },
+    "descrizioni": {
+      "it": "Soluzione in gel di ipoclorito di sodio per uso industriale.",
+      "en": "Sodium hypochlorite gel solution for industrial use.",
+      "al": "Solucion hipoklorit natriumi xhel per perdorim industrial."
+    },
+    "highlights": [
+      "Industriale",
+      "Uso Professionale"
+    ],
+    "immagine": "/products/industriale-clorex-gel.png",
+    "disponibile_alla_spina": false
+  },
+  {
+    "id": "industriale-sode-kaustike",
+    "linea": "industriale",
+    "categoria": "sode-kaustike",
+    "nomi": {
+      "it": "SODE KAUSTIKE SOL 28-30% PER PERDORIM INDUSTRIAL",
+      "en": "SODE KAUSTIKE SOL 28-30% PER PERDORIM INDUSTRIAL",
+      "al": "SODE KAUSTIKE SOL 28-30% PER PERDORIM INDUSTRIAL"
+    },
+    "descrizioni": {
+      "it": "Soda Caustica sol. 28-30% per uso industriale.",
+      "en": "Caustic Soda sol. 28-30% for industrial use.",
+      "al": "Sode kaustike sol 28-30% per perdorim industrial."
+    },
+    "highlights": [
+      "Industriale",
+      "Uso Professionale"
+    ],
+    "immagine": "/products/industriale-sode-kaustike.png",
+    "disponibile_alla_spina": false
+  },
+  {
+    "id": "industriale-wc-gel",
+    "linea": "industriale",
+    "categoria": "wc-gel",
+    "nomi": {
+      "it": "Wc Gel",
+      "en": "Wc Gel",
+      "al": "Wc Gel"
+    },
+    "descrizioni": {
+      "it": "WC Gel per uso industriale.",
+      "en": "WC Gel for industrial use.",
+      "al": "Wc gel per perdorim industrial."
+    },
+    "highlights": [
+      "Industriale",
+      "Uso Professionale"
+    ],
+    "immagine": "/products/industriale-wc-gel.png",
+    "disponibile_alla_spina": false
+  },
+  {
+    "id": "industriale-leter-higjenike",
+    "linea": "industriale",
+    "categoria": "leter-higjenike",
+    "nomi": {
+      "it": "Carta Igienica",
+      "en": "Toilet Paper",
+      "al": "Leter Higjenike"
+    },
+    "descrizioni": {
+      "it": "Carta Igienica per uso nel settore industriale.",
+      "en": "Toilet Paper for industrial sector use.",
+      "al": "Leter higjenike per perdorim ne sektorin industrial."
+    },
+    "highlights": [
+      "Industriale",
+      "Uso Professionale"
+    ],
+    "immagine": "/products/industriale-leter-higjenike.png",
+    "disponibile_alla_spina": false
+  },
+  {
+    "id": "industriale-stacion-shkume",
+    "linea": "industriale",
+    "categoria": "stacion-shkume",
+    "nomi": {
+      "it": "Stazione Schiuma",
+      "en": "Foam Station",
+      "al": "Stacion Shkume"
+    },
+    "descrizioni": {
+      "it": "Stazione Schiuma per pulizia nel settore industriale.",
+      "en": "Foam Station for cleaning in the industrial sector.",
+      "al": "Stacion shkume per pastrim ne sektorin industrial."
+    },
+    "highlights": [
+      "Industriale",
+      "Uso Professionale"
+    ],
+    "immagine": "/products/industriale-stacion-shkume.png",
+    "disponibile_alla_spina": false
+  },
+  {
+    "id": "lofty-pro-zbutes-rrobash-aromaterapia",
+    "linea": "lofty-pro",
+    "categoria": "zbutes-rrobash",
+    "nomi": {
+      "it": "Aromaterapia",
+      "en": "Aromaterapia",
+      "al": "Aromaterapia"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale ammorbidente - Aromaterapia. Formulazione concepita per uso professionale.",
+      "en": "Professional softener - Aromaterapia.",
+      "al": "Produkt profesional zbutes rrobash - Aromaterapia."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-zbutes-rrobash-aromaterapia.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-zbutes-rrobash-alto-intenso",
+    "linea": "lofty-pro",
+    "categoria": "zbutes-rrobash",
+    "nomi": {
+      "it": "Alto Intenso",
+      "en": "Alto Intenso",
+      "al": "Alto Intenso"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale ammorbidente - Alto Intenso. Formulazione concepita per uso professionale.",
+      "en": "Professional softener - Alto Intenso.",
+      "al": "Produkt profesional zbutes rrobash - Alto Intenso."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-zbutes-rrobash-alto-intenso.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-lares-rrobash-likuid-alto-intenso",
+    "linea": "lofty-pro",
+    "categoria": "lares-rrobash-likuid",
+    "nomi": {
+      "it": "Alto Intenso",
+      "en": "Alto Intenso",
+      "al": "Alto Intenso"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale lavatrice liquido - Alto Intenso. Formulazione concepita per uso professionale.",
+      "en": "Professional liquid laundry - Alto Intenso.",
+      "al": "Produkt profesional lares rrobash likuid - Alto Intenso."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-lares-rrobash-likuid-alto-intenso.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-lares-rrobash-pluhur-gel-ossigeno",
+    "linea": "lofty-pro",
+    "categoria": "lares-rrobash-pluhur",
+    "nomi": {
+      "it": "Gel Ossigeno",
+      "en": "Gel Ossigeno",
+      "al": "Gel Ossigeno"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale lavatrice polvere - Gel Ossigeno. Formulazione concepita per uso professionale.",
+      "en": "Professional powder laundry - Gel Ossigeno.",
+      "al": "Produkt profesional lares rrobash pluhur - Gel Ossigeno."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-lares-rrobash-pluhur-gel-ossigeno.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-lares-rrobash-pluhur-bianco-3-super",
+    "linea": "lofty-pro",
+    "categoria": "lares-rrobash-pluhur",
+    "nomi": {
+      "it": "Bianco 3 Super",
+      "en": "Bianco 3 Super",
+      "al": "Bianco 3 Super"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale lavatrice polvere - Bianco 3 Super. Formulazione concepita per uso professionale.",
+      "en": "Professional powder laundry - Bianco 3 Super.",
+      "al": "Produkt profesional lares rrobash pluhur - Bianco 3 Super."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-lares-rrobash-pluhur-bianco-3-super.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-lares-rrobash-pluhur-sslx-professionale",
+    "linea": "lofty-pro",
+    "categoria": "lares-rrobash-pluhur",
+    "nomi": {
+      "it": "Sslx Professionale",
+      "en": "Sslx Professionale",
+      "al": "Sslx Professionale"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale lavatrice polvere - Sslx Professionale. Formulazione concepita per uso professionale.",
+      "en": "Professional powder laundry - Sslx Professionale.",
+      "al": "Produkt profesional lares rrobash pluhur - Sslx Professionale."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-lares-rrobash-pluhur-sslx-professionale.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-lares-enesh-limone",
+    "linea": "lofty-pro",
+    "categoria": "lares-enesh",
+    "nomi": {
+      "it": "Limone",
+      "en": "Limone",
+      "al": "Limone"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale detersivo piatti - Limone. Formulazione concepita per uso professionale.",
+      "en": "Professional dish detergent - Limone.",
+      "al": "Produkt profesional lares enesh - Limone."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-lares-enesh-limone.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-lares-enesh-cenere-attiva",
+    "linea": "lofty-pro",
+    "categoria": "lares-enesh",
+    "nomi": {
+      "it": "Cenere Attiva",
+      "en": "Cenere Attiva",
+      "al": "Cenere Attiva"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale detersivo piatti - Cenere Attiva. Formulazione concepita per uso professionale.",
+      "en": "Professional dish detergent - Cenere Attiva.",
+      "al": "Produkt profesional lares enesh - Cenere Attiva."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-lares-enesh-cenere-attiva.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-lavastoviglie-lavastoviglie-liquido",
+    "linea": "lofty-pro",
+    "categoria": "lavastoviglie",
+    "nomi": {
+      "it": "Lavastoviglie Liquido",
+      "en": "Lavastoviglie Liquido",
+      "al": "Lavastoviglie Liquido"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale lavastoviglie - Lavastoviglie Liquido. Formulazione concepita per uso professionale.",
+      "en": "Professional dishwasher - Lavastoviglie Liquido.",
+      "al": "Produkt profesional lavastoviglie - Lavastoviglie Liquido."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-lavastoviglie-lavastoviglie-liquido.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-lavastoviglie-brillantante",
+    "linea": "lofty-pro",
+    "categoria": "lavastoviglie",
+    "nomi": {
+      "it": "Brillantante",
+      "en": "Brillantante",
+      "al": "Brillantante"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale lavastoviglie - Brillantante. Formulazione concepita per uso professionale.",
+      "en": "Professional dishwasher - Brillantante.",
+      "al": "Produkt profesional lavastoviglie - Brillantante."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-lavastoviglie-brillantante.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-lavastoviglie-lavastoviglie-bar",
+    "linea": "lofty-pro",
+    "categoria": "lavastoviglie",
+    "nomi": {
+      "it": "Lavastoviglie Bar",
+      "en": "Lavastoviglie Bar",
+      "al": "Lavastoviglie Bar"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale lavastoviglie - Lavastoviglie Bar. Formulazione concepita per uso professionale.",
+      "en": "Professional dishwasher - Lavastoviglie Bar.",
+      "al": "Produkt profesional lavastoviglie - Lavastoviglie Bar."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-lavastoviglie-lavastoviglie-bar.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-heqes-yndyror-sgrassatore-active",
+    "linea": "lofty-pro",
+    "categoria": "heqes-yndyror",
+    "nomi": {
+      "it": "Sgrassatore Active",
+      "en": "Sgrassatore Active",
+      "al": "Sgrassatore Active"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale sgrassatore - Sgrassatore Active. Formulazione concepita per uso professionale.",
+      "en": "Professional degreaser - Sgrassatore Active.",
+      "al": "Produkt profesional heqes yndyror - Sgrassatore Active."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-heqes-yndyror-sgrassatore-active.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-heqes-yndyror-puliforno",
+    "linea": "lofty-pro",
+    "categoria": "heqes-yndyror",
+    "nomi": {
+      "it": "Puliforno",
+      "en": "Puliforno",
+      "al": "Puliforno"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale sgrassatore - Puliforno. Formulazione concepita per uso professionale.",
+      "en": "Professional degreaser - Puliforno.",
+      "al": "Produkt profesional heqes yndyror - Puliforno."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-heqes-yndyror-puliforno.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-solucion-per-banjon-bagno-plus",
+    "linea": "lofty-pro",
+    "categoria": "solucion-per-banjon",
+    "nomi": {
+      "it": "Bagno Plus",
+      "en": "Bagno Plus",
+      "al": "Bagno Plus"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale prodotti bagno - Bagno Plus. Formulazione concepita per uso professionale.",
+      "en": "Professional bathroom cleaner - Bagno Plus.",
+      "al": "Produkt profesional solucion per banjon - Bagno Plus."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-solucion-per-banjon-bagno-plus.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-solucion-per-banjon-wc-gel",
+    "linea": "lofty-pro",
+    "categoria": "solucion-per-banjon",
+    "nomi": {
+      "it": "Wc Gel",
+      "en": "Wc Gel",
+      "al": "Wc Gel"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale prodotti bagno - Wc Gel. Formulazione concepita per uso professionale.",
+      "en": "Professional bathroom cleaner - Wc Gel.",
+      "al": "Produkt profesional solucion per banjon - Wc Gel."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-solucion-per-banjon-wc-gel.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-solucion-per-banjon-antigelqeror",
+    "linea": "lofty-pro",
+    "categoria": "solucion-per-banjon",
+    "nomi": {
+      "it": "Antigelqeror",
+      "en": "Antigelqeror",
+      "al": "Antigelqeror"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale prodotti bagno - Antigelqeror. Formulazione concepita per uso professionale.",
+      "en": "Professional bathroom cleaner - Antigelqeror.",
+      "al": "Produkt profesional solucion per banjon - Antigelqeror."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-solucion-per-banjon-antigelqeror.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-solucion-per-dysheme-essenza",
+    "linea": "lofty-pro",
+    "categoria": "solucion-per-dysheme",
+    "nomi": {
+      "it": "Essenza",
+      "en": "Essenza",
+      "al": "Essenza"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale pavimenti professionali - Essenza. Formulazione concepita per uso professionale.",
+      "en": "Professional professional floor - Essenza.",
+      "al": "Produkt profesional solucion per dysheme - Essenza."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-solucion-per-dysheme-essenza.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-solucion-per-dysheme-pasion",
+    "linea": "lofty-pro",
+    "categoria": "solucion-per-dysheme",
+    "nomi": {
+      "it": "Pasion",
+      "en": "Pasion",
+      "al": "Pasion"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale pavimenti professionali - Pasion. Formulazione concepita per uso professionale.",
+      "en": "Professional professional floor - Pasion.",
+      "al": "Produkt profesional solucion per dysheme - Pasion."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-solucion-per-dysheme-pasion.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-solucion-per-dysheme-shumperdorimesh",
+    "linea": "lofty-pro",
+    "categoria": "solucion-per-dysheme",
+    "nomi": {
+      "it": "Shumperdorimesh",
+      "en": "Shumperdorimesh",
+      "al": "Shumperdorimesh"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale pavimenti professionali - Shumperdorimesh. Formulazione concepita per uso professionale.",
+      "en": "Professional professional floor - Shumperdorimesh.",
+      "al": "Produkt profesional solucion per dysheme - Shumperdorimesh."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-solucion-per-dysheme-shumperdorimesh.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-solucion-per-dysheme-brill",
+    "linea": "lofty-pro",
+    "categoria": "solucion-per-dysheme",
+    "nomi": {
+      "it": "Brill",
+      "en": "Brill",
+      "al": "Brill"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale pavimenti professionali - Brill. Formulazione concepita per uso professionale.",
+      "en": "Professional professional floor - Brill.",
+      "al": "Produkt profesional solucion per dysheme - Brill."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-solucion-per-dysheme-brill.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-sapu-likuid-the-bianco",
+    "linea": "lofty-pro",
+    "categoria": "sapu-likuid",
+    "nomi": {
+      "it": "The Bianco",
+      "en": "The Bianco",
+      "al": "The Bianco"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale sapone liquido - The Bianco. Formulazione concepita per uso professionale.",
+      "en": "Professional liquid soap - The Bianco.",
+      "al": "Produkt profesional sapu likuid - The Bianco."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-sapu-likuid-the-bianco.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-sapu-likuid-ambra",
+    "linea": "lofty-pro",
+    "categoria": "sapu-likuid",
+    "nomi": {
+      "it": "Ambra",
+      "en": "Ambra",
+      "al": "Ambra"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale sapone liquido - Ambra. Formulazione concepita per uso professionale.",
+      "en": "Professional liquid soap - Ambra.",
+      "al": "Produkt profesional sapu likuid - Ambra."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-sapu-likuid-ambra.png",
+    "disponibile_alla_spina": true
+  },
+  {
+    "id": "lofty-pro-parfum-ambjenti-pink-essence",
+    "linea": "lofty-pro",
+    "categoria": "parfum-ambjenti",
+    "nomi": {
+      "it": "Pink Essence",
+      "en": "Pink Essence",
+      "al": "Pink Essence"
+    },
+    "descrizioni": {
+      "it": "Prodotto professionale profumatore ambienti - Pink Essence. Formulazione concepita per uso professionale.",
+      "en": "Professional air freshener - Pink Essence.",
+      "al": "Produkt profesional parfum ambjenti - Pink Essence."
+    },
+    "highlights": [
+      "Linea Professionale",
+      "Alta Efficacia"
+    ],
+    "immagine": "/products/lofty-pro-parfum-ambjenti-pink-essence.png",
+    "disponibile_alla_spina": true
+  }
+]

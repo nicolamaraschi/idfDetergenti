@@ -1,0 +1,211 @@
+{
+    "nav": {
+        "home": "Home",
+        "products": "Products",
+        "openStore": "Open a Store",
+        "marketing": "Marketing",
+        "storeLocator": "Store Locator",
+        "certifications": "Certifications",
+        "contact": "Contact"
+    },
+    "hero": {
+        "headline": "High Quality Detergents on Tap",
+        "subline": "LOFTY Brand – 90% Biodegradable · HACCP Certified",
+        "ctaProducts": "Discover Products",
+        "ctaFranchise": "Open a Store"
+    },
+    "about": {
+        "title": "About Us",
+        "body": "IDS Detergenti is a company with years of experience in producing detergents for domestic and industrial use, committed to offering superior quality and respect for the environment through our on-tap products and professional lines."
+    },
+    "homeProducts": {
+        "title": "Our Product Lines",
+        "subtitle": "Discover the complete range of our cleaning products for every need.",
+        "lofty": {
+            "title": "Lofty Line",
+            "desc": "Consumer standard"
+        },
+        "lofty-pro": {
+            "title": "Lofty Professional",
+            "desc": "Ho.Re.Ca / Industrial"
+        },
+        "paketuar": {
+            "title": "Pre-packaged Line",
+            "desc": "Convenient pre-packaged products"
+        },
+        "industriale": {
+            "title": "Industrial LID",
+            "desc": "Professional grade use"
+        },
+        "cta": "View all products"
+    },
+    "franchise": {
+        "title": "Join Us",
+        "subtitle": "High-quality LOFTY products guarantee your success!",
+        "store": {
+            "title": "Store",
+            "body": "Open a complete retail point dedicated exclusively to Lofty products (min 20 sqm)."
+        },
+        "corner": {
+            "title": "Corner",
+            "body": "Add a dedicated area for Lofty on-tap products inside your existing business."
+        },
+        "profit": {
+            "title": "Profit",
+            "body": "No royalties, very high profit margins, and highly loyalty-building products for customers."
+        }
+    },
+    "contact": {
+        "title": "Contact Us",
+        "name": "Full Name",
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Message",
+        "send": "Send Message",
+        "phone": "+355 69 20 86 130",
+        "email_val": "info@idsdetergenti.com",
+        "address": "Uzina 12, Ish Kombinati Metalurgjik 3001 Elbasan",
+        "map_title": "Find Us"
+    },
+    "franchisePage": {
+        "hero": {
+            "title": "Open Your LOFTY Store",
+            "subtitle": "A unique opportunity to start your business in the on-tap detergents world"
+        },
+        "offer": {
+            "title": "WHAT WE OFFER",
+            "items": [
+                "Quality products, competence and experience in the detergent sector.",
+                "Furnishings and advertising package for the point of sale.",
+                "~1200 kg of various Lofty and Tergo' products.",
+                "Circulating packaging (drums, taps).",
+                "Organization of the opening event + advertising materials.",
+                "Promotional products for customers during the opening event.",
+                "Assistance in the professional training of staff.",
+                "Supply according to a schedule within 24 hours.",
+                "Innovation and continuous research on quality improvement.",
+                "Radio-TV Promotion, Web Marketing, Urban promo, Trade Fairs."
+            ]
+        },
+        "requirements": {
+            "title": "WHAT WE LOOK FOR",
+            "items": [
+                "License as a natural or legal person.",
+                "Initial investment of 250,000 ALL (new).",
+                "Suitable environment with a minimum area of 20 m².",
+                "No cost for use of the brand/trademark.",
+                "No percentage/royalty on sales.",
+                "Exclusive sale only of Lofty on-tap products.",
+                "No blocking conditions on the trade of packaged products under other brands.",
+                "No blocking conditions on the trade of household items, cosmetics, etc.",
+                "Minimum order of 100 kg.",
+                "Clean environment and welcoming to customers."
+            ]
+        },
+        "carousel": {
+            "title": "Your success starts here",
+            "subtitle": "Look at the setup of our stores. A strong coordinated image and quality products that attract customers.",
+            "tag": "Layout & Concept"
+        },
+        "cta": {
+            "title": "Join the winning team!",
+            "subtitle": "Don't miss the opportunity to start a sustainable, profitable and ecological business.",
+            "call": "Call Now",
+            "write": "Email Us"
+        }
+    },
+    "certifications": {
+        "title": "Our Certifications",
+        "subtitle": "Certified Excellence",
+        "desc1": "IDS Detergenti is proud to operate according to the highest international standards. Every process, from production to logistics, is monitored to ensure safety and total quality.",
+        "desc2": "Our dedication is proven by the EN ISO 9001 and EN ISO 14001 certifications.",
+        "viewFull": "Open Full Document",
+        "official": "Official Certification",
+        "verifiedBy": "Verified by",
+        "process": {
+            "one": "Production Analysis",
+            "two": "Environmental Management Audit",
+            "three": "ISO Quality Validation"
+        }
+    },
+    "catalog": {
+        "assortment": "Assortment",
+        "all": "All",
+        "productsCount": "Products",
+        "noProducts": "No products found",
+        "noProductsDesc": "The current selection contains no products in the database or they are loading.",
+        "showAll": "Show all products in this line",
+        "lines": {
+            "lofty": "Lofty Line",
+            "lofty-pro": "Lofty Professional Line",
+            "paketuar": "Packaged Line",
+            "industriale": "Industrial LID Line"
+        },
+        "categories": {
+            "zbutes": "Fabric Softener",
+            "lavatrice": "Laundry",
+            "dysheme": "Floors",
+            "ene": "Dishes",
+            "detergjente": "Various Detergents",
+            "higjena-personale": "Personal Hygiene",
+            "zbutes-rrobash": "Laundry Softener",
+            "lares-rrobash-likuid": "Liquid Laundry",
+            "lares-rrobash-pluhur": "Powder Laundry",
+            "lares-enesh": "Dish Soap",
+            "lavastoviglie": "Dishwasher",
+            "heqes-yndyror": "Degreasers",
+            "solucion-per-banjon": "Bathroom Cleaners",
+            "solucion-per-dysheme": "Professional Floor Cleaners",
+            "sapu-likuid": "Liquid Soap",
+            "sapu-foam": "Foam Soap",
+            "parfum-ambjenti": "Air Fresheners",
+            "produkte-specifike": "Specific Products",
+            "foam-clor": "Foam Chlor",
+            "strong-clor": "Strong Chlor",
+            "deep-wash": "Deep Wash",
+            "alcosan": "Alcosan",
+            "alcogel": "Alcogel",
+            "antibakt": "Antibacterial",
+            "foam-soap": "Foam Soap",
+            "clorex-gel": "Clorex Gel",
+            "sode-kaustike": "Caustic Soda",
+            "wc-gel": "WC Gel",
+            "leter-higjenike": "Toilet Paper",
+            "stacion-shkume": "Foam Station"
+        },
+        "hero": {
+            "title": "Product Catalog",
+            "subtitle": "Browse through our professional lines and categories",
+            "onTap": "On Tap"
+        }
+    },
+    "marketingPage": {
+        "hero": {
+            "title": "Marketing & Media",
+            "subtitle": "Discover our media presence, participation in events and our communication tools."
+        },
+        "tv": {
+            "label": "Television",
+            "title": "IDS Detergenti in National Media",
+            "desc": "Follow our interviews and commercials broadcast on the main television channels. Our commitment to quality and innovation presented to the general public.",
+            "source": "Published on the official YouTube channel"
+        },
+        "social": {
+            "title": "Join our community",
+            "desc": "Follow us on Facebook to stay up to date with the latest offers, cleaning tips and our daily activities.",
+            "cta": "Follow us on Facebook"
+        },
+        "fiere": {
+            "title": "Participation in Fairs",
+            "desc": "IDS Detergenti is always present in the most important trade fairs in the region, showing our latest on-tap technologies.",
+            "upcoming": "Upcoming events coming soon..."
+        },
+        "catalog": {
+            "label": "2024 Catalog",
+            "title": "Browse our Full Catalog",
+            "desc": "Discover the full range of our products, from home to professional and industrial lines. Everything you need for a perfect clean.",
+            "view": "View Online",
+            "download": "Download PDF"
+        }
+    }
+}

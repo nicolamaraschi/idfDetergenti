@@ -1,0 +1,211 @@
+{
+    "nav": {
+        "home": "Kreu",
+        "products": "Produktet",
+        "openStore": "Hap një Dyqan",
+        "marketing": "Marketing",
+        "storeLocator": "Dyqanet Pranë",
+        "certifications": "Certifikimet",
+        "contact": "Kontakt"
+    },
+    "hero": {
+        "headline": "Detergjente me cilësi të lartë në rubinet",
+        "subline": "Marka LOFTY – 90% e Biodegradueshme · E Certifikuar HACCP",
+        "ctaProducts": "Zbulo Produktet",
+        "ctaFranchise": "Hap një Dyqan"
+    },
+    "about": {
+        "title": "Rreth Nesh",
+        "body": "IDS Detergenti është një kompani me vite përvojë në prodhimin e detergjentëve për përdorim shtëpiak dhe industrial, e angazhuar për të ofruar cilësi superiore dhe respekt për mjedisin përmes produkteve tona në tapë dhe linjave profesionale."
+    },
+    "homeProducts": {
+        "title": "Linjat Tona",
+        "subtitle": "Zbuloni gamën e plotë të produkteve tona pastruese për çdo nevojë.",
+        "lofty": {
+            "title": "Linja Lofty",
+            "desc": "Standarde për Konsumatorin"
+        },
+        "lofty-pro": {
+            "title": "Lofty Professional",
+            "desc": "Ho.Re.Ca / Industriale"
+        },
+        "paketuar": {
+            "title": "Linja e Paketuar",
+            "desc": "Produkte te gatshme te paketuara"
+        },
+        "industriale": {
+            "title": "Industriale LID",
+            "desc": "Përdorim profesional"
+        },
+        "cta": "Shiko të gjitha produktet"
+    },
+    "franchise": {
+        "title": "Bashkohu me Ne",
+        "subtitle": "Produktet me cilësi të lartë LOFTY garantojnë suksesin tuaj!",
+        "store": {
+            "title": "Dyqan",
+            "body": "Hapni një pikë të plotë shitjeje të dedikuar ekskluzivisht për produktet Lofty (min 20 sqm)."
+        },
+        "corner": {
+            "title": "Kënd",
+            "body": "Shtoni një zonë të dedikuar për produktet Lofty brenda biznesit tuaj ekzistues."
+        },
+        "profit": {
+            "title": "Fitimi",
+            "body": "Nuk ka tarifa, marzhe fitimi shumë të larta dhe produkte që krijojnë besnikëri të lartë te klientët."
+        }
+    },
+    "contact": {
+        "title": "Na Kontaktoni",
+        "name": "Emri Mbiemri",
+        "email": "Emaili",
+        "subject": "Subjekti",
+        "message": "Mesazhi",
+        "send": "Dërgo",
+        "phone": "+355 69 20 86 130",
+        "email_val": "info@idsdetergenti.com",
+        "address": "Uzina 12, Ish Kombinati Metalurgjik 3001 Elbasan",
+        "map_title": "Na vizitoni"
+    },
+    "franchisePage": {
+        "hero": {
+            "title": "HAP NJË DYQAN",
+            "subtitle": "Një mundësi unike për të nisur biznesin tuaj në botën e detergjentëve në rubinet"
+        },
+        "offer": {
+            "title": "CFARE OFROJME",
+            "items": [
+                "Produkte Cilesore, kompetence dhe eksperience ne sektorin e detergjenteve.",
+                "Arredimin dhe paketen publicitare te pikes se shitjes.",
+                "Rreth 1200 kg produkte te ndryshme Lofty dhe Tergo'.",
+                "Ambalazhin qarkullues (bidona, rubineta).",
+                "Organizimin e eventit te hapjes se dyqaneve si dhe materiale publicitare.",
+                "Produkte promocionale per klientelen gjate eventit te hapjes se dyqaneve.",
+                "Asistence ne formimin profesional te personelit.",
+                "Furnizimin sipas nje grafiku brenda 24 oreve, te produkteve.",
+                "Inovacion dhe kerkim te vazhdueshem ne permiresimin e cilesive.",
+                "Promocion Radio-Televiziv, Web Marketing, Promocion urban, Panaire."
+            ]
+        },
+        "requirements": {
+            "title": "CFARE KERKOJME",
+            "items": [
+                "Pajisjen me license si person fizik ose juridik.",
+                "Investimin fillestar prej 250,000 lekesh (te rinj).",
+                "Ambient te pershtatshem me siperfaqe minimale/te 20 m2.",
+                "Asnje kosto per perdorimin e markes/brendit.",
+                "Asnje perqindje/royalty per shitjet.",
+                "Shitjen eksluzive vetem te produkteve te hapura Lofty.",
+                "Asnje kusht bllokues ne tregtimin e produkteve te paketuara nen marka te tjera.",
+                "Asnje kusht bllokues ne tregtimin e artikujve shtepiake, kozmetike etj.",
+                "Porosi minimale prej 100 kg.",
+                "Ambient te paster dhe mikpritje te klienteve."
+            ]
+        },
+        "carousel": {
+            "title": "Suksesi juaj fillon këtu",
+            "subtitle": "Shikoni rregullimin e pikave tona të shitjes. Një imazh i fortë i koordinuar dhe produkte cilësore që tërheqin klientët.",
+            "tag": "Layout & Concept"
+        },
+        "cta": {
+            "title": "Eja në skuadrën fituese!",
+            "subtitle": "Mos e humb mundësinë për të hapur një biznes të qëndrueshëm, fitimprurës dhe ekologjik.",
+            "call": "Telefono Tani",
+            "write": "Na Shkruani"
+        }
+    },
+    "certifications": {
+        "title": "Certifikimet Tona",
+        "subtitle": "Ekselencë e Certifikuar",
+        "desc1": "IDS Detergenti është krenar që operon sipas standardeve më të larta ndërkombëtare. Çdo proces, nga prodhimi deri te logjistika, monitorohet për të garantuar siguri dhe cilësi totale.",
+        "desc2": "Përkushtimi ynë dëshmohet nga certifikimet EN ISO 9001 dhe EN ISO 14001.",
+        "viewFull": "Hap Dokumentin e Plotë",
+        "official": "Certifikim Zyrtar",
+        "verifiedBy": "Verifikuar nga",
+        "process": {
+            "one": "Analiza e Prodhimit",
+            "two": "Auditimi i Menaxhimit Mjedisor",
+            "three": "Validimi i Cilësisë ISO"
+        }
+    },
+    "catalog": {
+        "assortment": "Asortimenti",
+        "all": "Të gjitha",
+        "productsCount": "Produkte",
+        "noProducts": "Nuk u gjet asnjë produkt",
+        "noProductsDesc": "Zgjedhja aktuale nuk përmban asnjë produkt ose ato janë në ngarkim.",
+        "showAll": "Shfaqni të gjitha produktet e linjës",
+        "lines": {
+            "lofty": "Linja Lofty",
+            "lofty-pro": "Linja Lofty Profesional",
+            "paketuar": "Linja E Paketuar",
+            "industriale": "Linja Industriale LID"
+        },
+        "categories": {
+            "zbutes": "Zbutes",
+            "lavatrice": "Lavatrice",
+            "dysheme": "Dysheme",
+            "ene": "Ene",
+            "detergjente": "Detergjente",
+            "higjena-personale": "Higjena Personale",
+            "zbutes-rrobash": "Zbutes Rrobash",
+            "lares-rrobash-likuid": "Lares Rrobash Likuid",
+            "lares-rrobash-pluhur": "Lares Rrobash Pluhur",
+            "lares-enesh": "Lares Enesh",
+            "lavastoviglie": "Lavastoviglie",
+            "heqes-yndyror": "Heqes Yndyror",
+            "solucion-per-banjon": "Solucion per Banjon",
+            "solucion-per-dysheme": "Solucion per Dysheme",
+            "sapu-likuid": "Sapu Likuid",
+            "sapu-foam": "Sapu Foam",
+            "parfum-ambjenti": "Parfum Ambjenti",
+            "produkte-specifike": "Produkte Specifike",
+            "foam-clor": "Foam Clor",
+            "strong-clor": "Strong Clor",
+            "deep-wash": "Deep Wash",
+            "alcosan": "Alcosan",
+            "alcogel": "Alcogel",
+            "antibakt": "Antibakt",
+            "foam-soap": "Foam Soap",
+            "clorex-gel": "Clorex Gel",
+            "sode-kaustike": "Sode Kaustike",
+            "wc-gel": "WC Gel",
+            "leter-higjenike": "Leter Higjenike",
+            "stacion-shkume": "Stacion Shkume"
+        },
+        "hero": {
+            "title": "Katalogu i Produkteve",
+            "subtitle": "Navigoni mes linjave dhe kategorive tona profesionale",
+            "onTap": "Me Peshë"
+        }
+    },
+    "marketingPage": {
+        "hero": {
+            "title": "Marketing & Media",
+            "subtitle": "Zbuloni prezencën tonë mediatike, pjesëmarrjen në evente dhe mjetet tona të komunikimit."
+        },
+        "tv": {
+            "label": "Televizioni",
+            "title": "IDS Detergenti në Mediat Kombëtare",
+            "desc": "Ndiqni intervistat tona dhe spotet publicitare që shfaqen në kanalet kryesore televizive. Angazhimi ynë ndaj cilësisë dhe inovacionit prezantohet për publikun e gjerë.",
+            "source": "Publikuar në kanalin zyrtar YouTube"
+        },
+        "social": {
+            "title": "Behuni pjesë e komunitetit tonë",
+            "desc": "Na ndiqni në Facebook për të qenë gjithmonë të përditësuar me ofertat e fundit, këshillat për pastrimin dhe aktivitetet tona të përditshme.",
+            "cta": "Na ndiqni në Facebook"
+        },
+        "fiere": {
+            "title": "Pjesëmarrja në Panair",
+            "desc": "IDS Detergenti është gjithmonë prezent në panairet më të rëndësishme të tregtisë dhe industrisë në mbarë rajonin, duke treguar teknologjinë tonë më të fundit alla spina.",
+            "upcoming": "Eventet e ardhshme së shpejti..."
+        },
+        "catalog": {
+            "label": "Katalogu 2024",
+            "title": "Shfletoni Katalogun tonë të Plotë",
+            "desc": "Zbuloni gamën tonë të plotë të produkteve, nga linja shtëpiake te ajo profesionale dhe industriale. Gjithçka që ju nevojitet për një pastrim perfekt.",
+            "view": "Shiko Online",
+            "download": "Shkarko PDF"
+        }
+    }
+}
