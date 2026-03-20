@@ -50,6 +50,7 @@ function App() {
             <Route path="apri-negozio" element={<FranchisePage />} />
             <Route path="marketing" element={<MarketingPage />} />
             <Route path="certificazioni" element={<CertificationsPage />} />
+            <Route path="contatti" element={<ContactPage />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Route>
         </Route>
